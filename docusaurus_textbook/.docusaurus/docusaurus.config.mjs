@@ -7,10 +7,10 @@ export default {
   "title": "Physical AI & Humanoid Robotics Textbook",
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
-  "url": "https://ai-robotic-textbook-on-docusaurus.vercel.app",
-  "baseUrl": "/",
+  "url": "https://Bernard-Hackwell98.github.io",
+  "baseUrl": "/ai-robotic-textbook-on-Docusaurus/ur/",
   "organizationName": "Bernard-Hackwell98",
-  "projectName": "physical-ai-humanoid-robotics-textbook",
+  "projectName": "ai-robotic-textbook-on-Docusaurus",
   "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "i18n": {
@@ -99,15 +99,15 @@ export default {
           "items": [
             {
               "label": "Instagram",
-              "href": "https://instagram.com/subhan_kaladi"
+              "href": "https://instagram.com/username"
             },
             {
               "label": "LinkenIN",
-              "href": "https://www.linkedin.com/in/subhankaladi/"
+              "href": "https://www.linkedin.com/in/username/"
             },
             {
               "label": "(X)Twitter",
-              "href": "https://x.com/subhankaladi15"
+              "href": "https://x.com/username"
             }
           ]
         },
@@ -116,7 +116,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/subhankaladi"
+              "href": "https://github.com/Bernard-Hackwell98"
             }
           ]
         }

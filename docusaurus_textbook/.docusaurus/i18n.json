@@ -5,7 +5,7 @@
     "ur"
   ],
   "path": "i18n",
-  "currentLocale": "en",
+  "currentLocale": "ur",
   "localeConfigs": {
     "en": {
       "label": "English",
@@ -14,8 +14,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://ai-robotic-textbook-on-docusaurus.vercel.app",
-      "baseUrl": "/"
+      "url": "https://Bernard-Hackwell98.github.io",
+      "baseUrl": "/ai-robotic-textbook-on-Docusaurus/"
     },
     "ur": {
       "label": "اردو",
@@ -24,8 +24,8 @@
       "calendar": "gregory",
       "path": "ur",
       "translate": true,
-      "url": "https://ai-robotic-textbook-on-docusaurus.vercel.app",
-      "baseUrl": "/ur/"
+      "url": "https://Bernard-Hackwell98.github.io",
+      "baseUrl": "/ai-robotic-textbook-on-Docusaurus/ur/"
     }
   }
 }
