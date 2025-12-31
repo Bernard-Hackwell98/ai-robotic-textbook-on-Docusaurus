@@ -7,14 +7,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://physicalhumanoidaitextbook.vercel.app',
+  url: 'https://ai-robotic-textbook-on-docusaurus.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'subhankaladi', // Usually your GitHub org/user name.
+  organizationName: 'Bernard-Hackwell98', // Usually your GitHub org/user name.
   projectName: 'physical-ai-humanoid-robotics-textbook', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -72,7 +72,7 @@ const config = {
             label: 'Textbook',
           },
           {
-            href: 'https://github.com/subhankaladi',
+            href: 'https://github.com/Bernard-Hackwell98',
             label: 'GitHub',
             position: 'right',
           },
