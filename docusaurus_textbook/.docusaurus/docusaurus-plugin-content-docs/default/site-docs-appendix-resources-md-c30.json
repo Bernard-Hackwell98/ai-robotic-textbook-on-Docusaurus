@@ -5,20 +5,19 @@
   "source": "@site/docs/appendix/resources.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/resources",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/docs/appendix/resources",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/resources",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/appendix/resources.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "References",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/docs/appendix/references"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/references"
   },
   "next": {
     "title": "Physical AI & Humanoid Robotics Textbook",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/docs/intro"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/intro"
   }
 }
