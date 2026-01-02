@@ -1,137 +1,94 @@
 {
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug-a51": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/config-13d": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/content-ece": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    },
-    "__props": "__props---ai-robotic-textbook-on-docusaurus-docusaurus-debug-content-489-6f5"
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/globalData-510": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/metadata-674": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/registry-33c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
-  "/ai-robotic-textbook-on-Docusaurus/__docusaurus/debug/routes-07d": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-docusaurus-debugb-38-755"
-    }
-  },
   "/ai-robotic-textbook-on-Docusaurus/-671": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-a-74-0e2"
+      "plugin": "a7456010"
     },
-    "config": "config---ai-robotic-textbook-on-docusaurus-5-e-9-d43"
+    "config": "5e9f5e1a"
   },
   "/ai-robotic-textbook-on-Docusaurus/-2ff": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---ai-robotic-textbook-on-docusaurus-aba-64b"
+      "plugin": "aba21aa0"
     }
   },
   "/ai-robotic-textbook-on-Docusaurus/-b4f": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---ai-robotic-textbook-on-docusaurus-d-29-700"
+    "__comp": "a7bd4aaa",
+    "__props": "d29dc958"
   },
   "/ai-robotic-textbook-on-Docusaurus/-946": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/ai-robotic-textbook-on-Docusaurus/advanced-ai-control/module-5-advanced-ai-645": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-advanced-ai-control-module-5-advanced-aie-0-d-26e"
+    "__comp": "17896441",
+    "content": "e0d24761"
   },
   "/ai-robotic-textbook-on-Docusaurus/appendix/glossary-2ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-appendix-glossary-888-6ea"
+    "__comp": "17896441",
+    "content": "88884f83"
   },
   "/ai-robotic-textbook-on-Docusaurus/appendix/references-b44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-appendix-references-2-e-8-7ff"
+    "__comp": "17896441",
+    "content": "2e82ce9c"
   },
   "/ai-robotic-textbook-on-Docusaurus/appendix/resources-fd1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-appendix-resourcesc-30-d21"
+    "__comp": "17896441",
+    "content": "c30d6c39"
   },
   "/ai-robotic-textbook-on-Docusaurus/hardware-basics/module-3-hardware-7ee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-hardware-basics-module-3-hardwarec-82-5f8"
+    "__comp": "17896441",
+    "content": "c82c7672"
   },
   "/ai-robotic-textbook-on-Docusaurus/humanoid-design/module-6-humanoid-design-a0e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-humanoid-design-module-6-humanoid-designeeb-8d0"
+    "__comp": "17896441",
+    "content": "eebfa656"
   },
   "/ai-robotic-textbook-on-Docusaurus/intro-417": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-intro-0-e-3-ce3"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/ai-robotic-textbook-on-Docusaurus/introduction/intro-e25": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-introduction-intro-825-15b"
+    "__comp": "17896441",
+    "content": "8257eeb8"
   },
   "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/module-1-ros2-610": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-ros-2-foundations-module-1-ros-2-f-46-b13"
+    "__comp": "17896441",
+    "content": "f468a7ad"
   },
   "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/ros2-hands-on-4e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-ros-2-foundations-ros-2-hands-on-5-e-4-402"
+    "__comp": "17896441",
+    "content": "5e4fa025"
   },
   "/ai-robotic-textbook-on-Docusaurus/simulation/digital-twins-ef8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-simulation-digital-twins-349-f6c"
+    "__comp": "17896441",
+    "content": "349d9f3b"
   },
   "/ai-robotic-textbook-on-Docusaurus/simulation/gazebo-unity-1df": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-simulation-gazebo-unity-7-f-0-5e9"
+    "__comp": "17896441",
+    "content": "7f0a4cd2"
   },
   "/ai-robotic-textbook-on-Docusaurus/simulation/module-2-simulation-a79": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-simulation-module-2-simulation-677-663"
+    "__comp": "17896441",
+    "content": "6772779c"
   },
   "/ai-robotic-textbook-on-Docusaurus/vla-systems/module-4-vla-foundations-900": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-vla-systems-module-4-vla-foundations-6-df-f5b"
+    "__comp": "17896441",
+    "content": "6dfd6766"
   },
   "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-action-647": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-vla-systems-vla-actionfe-6-448"
+    "__comp": "17896441",
+    "content": "fe675a51"
   },
   "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-hands-on-basic-6f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-vla-systems-vla-hands-on-basicccc-770"
+    "__comp": "17896441",
+    "content": "ccc79d7d"
   },
   "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-language-595": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-vla-systems-vla-language-4-f-4-d30"
+    "__comp": "17896441",
+    "content": "4f472662"
   },
   "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-vision-d48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-robotic-textbook-on-docusaurus-vla-systems-vla-vision-4-df-d1e"
+    "__comp": "17896441",
+    "content": "4df0e478"
   }
 }

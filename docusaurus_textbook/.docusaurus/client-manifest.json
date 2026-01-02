@@ -50,11 +50,11 @@
     "7f0a4cd2": [
       248
     ],
+    "8257eeb8": [
+      557
+    ],
     "88884f83": [
       782
-    ],
-    "93cb48b2": [
-      64
     ],
     "a7456010": [
       235
@@ -81,14 +81,14 @@
     "ccc79d7d": [
       113
     ],
+    "d29dc958": [
+      85
+    ],
     "e0d24761": [
       906
     ],
     "eebfa656": [
       897
-    ],
-    "f337ab24": [
-      623
     ],
     "f468a7ad": [
       40
@@ -108,9 +108,9 @@
     "40": {
       "js": [
         {
-          "file": "assets/js/f468a7ad.467b4d9a.js",
-          "hash": "f0b02f696d8e40a5",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/f468a7ad.467b4d9a.js"
+          "file": "assets/js/f468a7ad.4576cf5c.js",
+          "hash": "83bf46a27c8864b2",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/f468a7ad.4576cf5c.js"
         }
       ]
     },
@@ -119,16 +119,16 @@
         {
           "file": "assets/js/a94703ab.06268f3f.js",
           "hash": "4707ba21a66b8a81",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/a94703ab.06268f3f.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/a94703ab.06268f3f.js"
         }
       ]
     },
-    "64": {
+    "85": {
       "js": [
         {
-          "file": "assets/js/93cb48b2.d23f692e.js",
-          "hash": "e1d61b4037ea6b67",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/93cb48b2.d23f692e.js"
+          "file": "assets/js/d29dc958.ce7c32f6.js",
+          "hash": "f8d1a3623397533c",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/d29dc958.ce7c32f6.js"
         }
       ]
     },
@@ -137,25 +137,25 @@
         {
           "file": "assets/js/a7bd4aaa.1de012a0.js",
           "hash": "cd4246263e443369",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/a7bd4aaa.1de012a0.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/a7bd4aaa.1de012a0.js"
         }
       ]
     },
     "113": {
       "js": [
         {
-          "file": "assets/js/ccc79d7d.78a8f918.js",
-          "hash": "ff6630699afb86cd",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/ccc79d7d.78a8f918.js"
+          "file": "assets/js/ccc79d7d.b033299b.js",
+          "hash": "5990e85329d669a2",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/ccc79d7d.b033299b.js"
         }
       ]
     },
     "154": {
       "js": [
         {
-          "file": "assets/js/6dfd6766.051f33a1.js",
-          "hash": "5e7ae270baf3b8c9",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/6dfd6766.051f33a1.js"
+          "file": "assets/js/6dfd6766.24f11d4e.js",
+          "hash": "c35e5f4c3fb3d99a",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/6dfd6766.24f11d4e.js"
         }
       ]
     },
@@ -164,7 +164,7 @@
         {
           "file": "assets/js/a7456010.7350e5d2.js",
           "hash": "75bb9d099b420559",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/a7456010.7350e5d2.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/a7456010.7350e5d2.js"
         }
       ]
     },
@@ -173,61 +173,61 @@
         {
           "file": "assets/js/237.4d730b07.js",
           "hash": "c4cc73a916877ce9",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/237.4d730b07.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/237.4d730b07.js"
         }
       ]
     },
     "247": {
       "js": [
         {
-          "file": "assets/js/6772779c.dab6f047.js",
-          "hash": "477a26dbf28b5d9b",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/6772779c.dab6f047.js"
+          "file": "assets/js/6772779c.7439829a.js",
+          "hash": "27827f642d7ce787",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/6772779c.7439829a.js"
         }
       ]
     },
     "248": {
       "js": [
         {
-          "file": "assets/js/7f0a4cd2.6720e20c.js",
-          "hash": "c1417369a94c246e",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/7f0a4cd2.6720e20c.js"
+          "file": "assets/js/7f0a4cd2.5b8d7372.js",
+          "hash": "0dfbf896c3623240",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/7f0a4cd2.5b8d7372.js"
         }
       ]
     },
     "250": {
       "css": [
         {
-          "file": "assets/css/styles.72d2cf80.css",
-          "hash": "f0e9ac020ea3e9df",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/css/styles.72d2cf80.css"
+          "file": "assets/css/styles.16b97ed6.css",
+          "hash": "41795b07c780753c",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/css/styles.16b97ed6.css"
         }
       ]
     },
     "270": {
       "js": [
         {
-          "file": "assets/js/4f472662.1d9241da.js",
-          "hash": "5cbdc3b174871b94",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/4f472662.1d9241da.js"
+          "file": "assets/js/4f472662.eda8b076.js",
+          "hash": "d4fcaf4d918f1046",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/4f472662.eda8b076.js"
         }
       ]
     },
     "335": {
       "js": [
         {
-          "file": "assets/js/5e4fa025.d5ffc924.js",
-          "hash": "14af10f1ac0ee137",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/5e4fa025.d5ffc924.js"
+          "file": "assets/js/5e4fa025.95c16c9e.js",
+          "hash": "b7a420c9f105ce02",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/5e4fa025.95c16c9e.js"
         }
       ]
     },
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.27f1b1b2.js",
-          "hash": "e7176ca6690a168a",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/runtime~main.27f1b1b2.js"
+          "file": "assets/js/runtime~main.9b101a74.js",
+          "hash": "6d52e8f2ffa72ed6",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/runtime~main.9b101a74.js"
         }
       ]
     },
@@ -236,43 +236,43 @@
         {
           "file": "assets/js/17896441.5e11a279.js",
           "hash": "f4afefb7e5311639",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/17896441.5e11a279.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/17896441.5e11a279.js"
         }
       ]
     },
     "414": {
       "js": [
         {
-          "file": "assets/js/2e82ce9c.98d7c3f2.js",
-          "hash": "a7e8ae992e141f30",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/2e82ce9c.98d7c3f2.js"
+          "file": "assets/js/2e82ce9c.02df9857.js",
+          "hash": "a4b52e0bb85d9ca8",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/2e82ce9c.02df9857.js"
         }
       ]
     },
     "456": {
       "js": [
         {
-          "file": "assets/js/c30d6c39.cb8374a2.js",
-          "hash": "cf62521100134fe6",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/c30d6c39.cb8374a2.js"
+          "file": "assets/js/c30d6c39.d932c3f6.js",
+          "hash": "5ac906b1015dc581",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/c30d6c39.d932c3f6.js"
         }
       ]
     },
     "495": {
       "js": [
         {
-          "file": "assets/js/4df0e478.1bda3838.js",
-          "hash": "6f8b563392bd3675",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/4df0e478.1bda3838.js"
+          "file": "assets/js/4df0e478.a26fe062.js",
+          "hash": "44387620b2fb2706",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/4df0e478.a26fe062.js"
         }
       ]
     },
-    "623": {
+    "557": {
       "js": [
         {
-          "file": "assets/js/f337ab24.48062d99.js",
-          "hash": "9c49ec07dac11e65",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/f337ab24.48062d99.js"
+          "file": "assets/js/8257eeb8.1c521e22.js",
+          "hash": "c948f684c6b81bdc",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/8257eeb8.1c521e22.js"
         }
       ]
     },
@@ -281,7 +281,7 @@
         {
           "file": "assets/js/c4f5d8e4.1677d2ec.js",
           "hash": "6974b50996bb1758",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/c4f5d8e4.1677d2ec.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/c4f5d8e4.1677d2ec.js"
         }
       ]
     },
@@ -290,7 +290,7 @@
         {
           "file": "assets/js/5e95c892.e56f6926.js",
           "hash": "2f9f084f6050533e",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/5e95c892.e56f6926.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/5e95c892.e56f6926.js"
         }
       ]
     },
@@ -299,79 +299,79 @@
         {
           "file": "assets/js/aba21aa0.6f536af8.js",
           "hash": "21623c9353da26c1",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/aba21aa0.6f536af8.js"
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/aba21aa0.6f536af8.js"
         }
       ]
     },
     "759": {
       "js": [
         {
-          "file": "assets/js/349d9f3b.b83c89cf.js",
-          "hash": "3f7a3f57381da7f2",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/349d9f3b.b83c89cf.js"
+          "file": "assets/js/349d9f3b.13768128.js",
+          "hash": "b374bdc879246087",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/349d9f3b.13768128.js"
         }
       ]
     },
     "782": {
       "js": [
         {
-          "file": "assets/js/88884f83.ca22b4f1.js",
-          "hash": "51abf07f3669fdd7",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/88884f83.ca22b4f1.js"
+          "file": "assets/js/88884f83.d9720b86.js",
+          "hash": "3bcf97ef2f3dd848",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/88884f83.d9720b86.js"
         }
       ]
     },
     "792": {
       "js": [
         {
-          "file": "assets/js/main.8a818a89.js",
-          "hash": "19ee1a580aa225ca",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/main.8a818a89.js"
+          "file": "assets/js/main.833c37de.js",
+          "hash": "92697ac452b36017",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/main.833c37de.js"
         }
       ]
     },
     "869": {
       "js": [
         {
-          "file": "assets/js/fe675a51.b31b294a.js",
-          "hash": "63717b980697fafa",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/fe675a51.b31b294a.js"
+          "file": "assets/js/fe675a51.e7ea3646.js",
+          "hash": "3c2a33a1d3cafc52",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/fe675a51.e7ea3646.js"
         }
       ]
     },
     "897": {
       "js": [
         {
-          "file": "assets/js/eebfa656.736beda7.js",
-          "hash": "a05172a65f43561b",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/eebfa656.736beda7.js"
+          "file": "assets/js/eebfa656.c870c28e.js",
+          "hash": "2ad0d73f272ec19f",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/eebfa656.c870c28e.js"
         }
       ]
     },
     "906": {
       "js": [
         {
-          "file": "assets/js/e0d24761.c9bb5099.js",
-          "hash": "bd49f35422eb9023",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/e0d24761.c9bb5099.js"
+          "file": "assets/js/e0d24761.0bec0900.js",
+          "hash": "902f0642a52adaeb",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/e0d24761.0bec0900.js"
         }
       ]
     },
     "959": {
       "js": [
         {
-          "file": "assets/js/c82c7672.1632fd48.js",
-          "hash": "2e594c7322515074",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/c82c7672.1632fd48.js"
+          "file": "assets/js/c82c7672.010c57c9.js",
+          "hash": "cddb0d8345bed0f4",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/c82c7672.010c57c9.js"
         }
       ]
     },
     "976": {
       "js": [
         {
-          "file": "assets/js/0e384e19.26cb95ba.js",
-          "hash": "52562849fb693a8f",
-          "publicPath": "/ai-robotic-textbook-on-Docusaurus/ur/assets/js/0e384e19.26cb95ba.js"
+          "file": "assets/js/0e384e19.9fbf17c6.js",
+          "hash": "3f61edd3647d7c27",
+          "publicPath": "/ai-robotic-textbook-on-Docusaurus/assets/js/0e384e19.9fbf17c6.js"
         }
       ]
     }
