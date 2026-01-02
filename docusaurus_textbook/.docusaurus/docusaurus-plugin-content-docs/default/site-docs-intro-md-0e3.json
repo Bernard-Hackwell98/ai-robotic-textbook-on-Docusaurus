@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/intro",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/intro",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "resources",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/resources"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/resources"
   }
 }

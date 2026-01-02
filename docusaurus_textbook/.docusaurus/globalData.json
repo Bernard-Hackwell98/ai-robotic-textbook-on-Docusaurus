@@ -1,103 +1,103 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/ai-robotic-textbook-on-Docusaurus/",
+      "path": "/ai-robotic-textbook-on-Docusaurus/ur/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/ai-robotic-textbook-on-Docusaurus/",
+          "path": "/ai-robotic-textbook-on-Docusaurus/ur/",
           "mainDocId": "introduction/intro",
           "docs": [
             {
               "id": "advanced-ai-control/module-5-advanced-ai",
-              "path": "/ai-robotic-textbook-on-Docusaurus/advanced-ai-control/module-5-advanced-ai",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/advanced-ai-control/module-5-advanced-ai",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "appendix/glossary",
-              "path": "/ai-robotic-textbook-on-Docusaurus/appendix/glossary",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/glossary",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "appendix/references",
-              "path": "/ai-robotic-textbook-on-Docusaurus/appendix/references",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "appendix/resources",
-              "path": "/ai-robotic-textbook-on-Docusaurus/appendix/resources",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/resources",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "hardware-basics/module-3-hardware",
-              "path": "/ai-robotic-textbook-on-Docusaurus/hardware-basics/module-3-hardware",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/hardware-basics/module-3-hardware",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "humanoid-design/module-6-humanoid-design",
-              "path": "/ai-robotic-textbook-on-Docusaurus/humanoid-design/module-6-humanoid-design",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/humanoid-design/module-6-humanoid-design",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/ai-robotic-textbook-on-Docusaurus/intro",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction/intro",
-              "path": "/ai-robotic-textbook-on-Docusaurus/introduction/intro",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/introduction/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ros2-foundations/module-1-ros2",
-              "path": "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/module-1-ros2",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/module-1-ros2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ros2-foundations/ros2-hands-on",
-              "path": "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/ros2-hands-on",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/ros2-hands-on",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "simulation/digital-twins",
-              "path": "/ai-robotic-textbook-on-Docusaurus/simulation/digital-twins",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/simulation/digital-twins",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "simulation/gazebo-unity",
-              "path": "/ai-robotic-textbook-on-Docusaurus/simulation/gazebo-unity",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/simulation/gazebo-unity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "simulation/module-2-simulation",
-              "path": "/ai-robotic-textbook-on-Docusaurus/simulation/module-2-simulation",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/simulation/module-2-simulation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vla-systems/module-4-vla-foundations",
-              "path": "/ai-robotic-textbook-on-Docusaurus/vla-systems/module-4-vla-foundations",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/module-4-vla-foundations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vla-systems/vla-action",
-              "path": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-action",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-action",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vla-systems/vla-hands-on-basic",
-              "path": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-hands-on-basic",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-hands-on-basic",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vla-systems/vla-language",
-              "path": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-language",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-language",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "vla-systems/vla-vision",
-              "path": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-vision",
+              "path": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-vision",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -105,7 +105,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/ai-robotic-textbook-on-Docusaurus/introduction/intro",
+                "path": "/ai-robotic-textbook-on-Docusaurus/ur/introduction/intro",
                 "label": "introduction/intro"
               }
             }

@@ -8,7 +8,7 @@ export default {
   "tagline": "Learning Physical AI and Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://Bernard-Hackwell98.github.io",
-  "baseUrl": "/ai-robotic-textbook-on-Docusaurus/",
+  "baseUrl": "/ai-robotic-textbook-on-Docusaurus/ur/",
   "organizationName": "Bernard-Hackwell98",
   "projectName": "ai-robotic-textbook-on-Docusaurus",
   "deploymentBranch": "gh-pages",
@@ -118,7 +118,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright � 2026 Physical AI & Humanoid Robotics Textbook, Built with by Muhammad Hammad."
+      "copyright": "Copyright � 2025 Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Subhan Kaladi."
     },
     "prism": {
       "theme": {

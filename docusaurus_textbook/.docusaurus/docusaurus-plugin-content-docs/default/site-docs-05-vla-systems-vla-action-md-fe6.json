@@ -5,7 +5,7 @@
   "source": "@site/docs/05-vla-systems/vla-action.md",
   "sourceDirName": "05-vla-systems",
   "slug": "/vla-systems/vla-action",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-action",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-action",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/vla-systems/module-4-vla-foundations"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/module-4-vla-foundations"
   },
   "next": {
     "title": "Hands-On: Basic VLA Agent (Design Only)",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-hands-on-basic"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-hands-on-basic"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/04-hardware-basics/module-3-hardware.md",
   "sourceDirName": "04-hardware-basics",
   "slug": "/hardware-basics/module-3-hardware",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/hardware-basics/module-3-hardware",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/hardware-basics/module-3-hardware",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -25,10 +25,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 2: Simulation & Digital Twins",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/simulation/module-2-simulation"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/simulation/module-2-simulation"
   },
   "next": {
     "title": "Module 4: Vision-Language-Action (VLA) Systems - Foundations",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/vla-systems/module-4-vla-foundations"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/module-4-vla-foundations"
   }
 }

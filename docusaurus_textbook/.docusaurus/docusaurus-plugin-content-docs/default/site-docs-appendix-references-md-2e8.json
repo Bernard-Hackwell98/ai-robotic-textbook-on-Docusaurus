@@ -5,7 +5,7 @@
   "source": "@site/docs/appendix/references.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/references",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/references",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/references",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Glossary",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/glossary"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/glossary"
   },
   "next": {
     "title": "resources",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/resources"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/resources"
   }
 }

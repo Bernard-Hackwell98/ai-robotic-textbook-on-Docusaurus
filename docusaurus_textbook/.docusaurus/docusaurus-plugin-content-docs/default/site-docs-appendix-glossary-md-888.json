@@ -5,7 +5,7 @@
   "source": "@site/docs/appendix/glossary.md",
   "sourceDirName": "appendix",
   "slug": "/appendix/glossary",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/glossary",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/glossary",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Module 6: Designing Humanoid Robots",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/humanoid-design/module-6-humanoid-design"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/humanoid-design/module-6-humanoid-design"
   },
   "next": {
     "title": "References",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/appendix/references"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/appendix/references"
   }
 }

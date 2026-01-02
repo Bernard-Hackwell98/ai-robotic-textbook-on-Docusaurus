@@ -1,93 +1,93 @@
 {
-  "/ai-robotic-textbook-on-Docusaurus/-671": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/-711": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"
     },
     "config": "5e9f5e1a"
   },
-  "/ai-robotic-textbook-on-Docusaurus/-2ff": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/-f7b": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/ai-robotic-textbook-on-Docusaurus/-b4f": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/-8ac": {
     "__comp": "a7bd4aaa",
-    "__props": "d29dc958"
+    "__props": "744a674a"
   },
-  "/ai-robotic-textbook-on-Docusaurus/-946": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/-518": {
     "__comp": "a94703ab"
   },
-  "/ai-robotic-textbook-on-Docusaurus/advanced-ai-control/module-5-advanced-ai-645": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/advanced-ai-control/module-5-advanced-ai-858": {
     "__comp": "17896441",
     "content": "e0d24761"
   },
-  "/ai-robotic-textbook-on-Docusaurus/appendix/glossary-2ff": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/appendix/glossary-c45": {
     "__comp": "17896441",
     "content": "88884f83"
   },
-  "/ai-robotic-textbook-on-Docusaurus/appendix/references-b44": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/appendix/references-4e1": {
     "__comp": "17896441",
     "content": "2e82ce9c"
   },
-  "/ai-robotic-textbook-on-Docusaurus/appendix/resources-fd1": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/appendix/resources-17f": {
     "__comp": "17896441",
     "content": "c30d6c39"
   },
-  "/ai-robotic-textbook-on-Docusaurus/hardware-basics/module-3-hardware-7ee": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/hardware-basics/module-3-hardware-9ed": {
     "__comp": "17896441",
     "content": "c82c7672"
   },
-  "/ai-robotic-textbook-on-Docusaurus/humanoid-design/module-6-humanoid-design-a0e": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/humanoid-design/module-6-humanoid-design-359": {
     "__comp": "17896441",
     "content": "eebfa656"
   },
-  "/ai-robotic-textbook-on-Docusaurus/intro-417": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/intro-47c": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/ai-robotic-textbook-on-Docusaurus/introduction/intro-e25": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/introduction/intro-e10": {
     "__comp": "17896441",
-    "content": "8257eeb8"
+    "content": "93cb48b2"
   },
-  "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/module-1-ros2-610": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/module-1-ros2-dc0": {
     "__comp": "17896441",
     "content": "f468a7ad"
   },
-  "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/ros2-hands-on-4e1": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/ros2-hands-on-681": {
     "__comp": "17896441",
     "content": "5e4fa025"
   },
-  "/ai-robotic-textbook-on-Docusaurus/simulation/digital-twins-ef8": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/simulation/digital-twins-306": {
     "__comp": "17896441",
     "content": "349d9f3b"
   },
-  "/ai-robotic-textbook-on-Docusaurus/simulation/gazebo-unity-1df": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/simulation/gazebo-unity-092": {
     "__comp": "17896441",
     "content": "7f0a4cd2"
   },
-  "/ai-robotic-textbook-on-Docusaurus/simulation/module-2-simulation-a79": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/simulation/module-2-simulation-87d": {
     "__comp": "17896441",
     "content": "6772779c"
   },
-  "/ai-robotic-textbook-on-Docusaurus/vla-systems/module-4-vla-foundations-900": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/module-4-vla-foundations-ab3": {
     "__comp": "17896441",
     "content": "6dfd6766"
   },
-  "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-action-647": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-action-835": {
     "__comp": "17896441",
     "content": "fe675a51"
   },
-  "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-hands-on-basic-6f3": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-hands-on-basic-d4b": {
     "__comp": "17896441",
     "content": "ccc79d7d"
   },
-  "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-language-595": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-language-125": {
     "__comp": "17896441",
     "content": "4f472662"
   },
-  "/ai-robotic-textbook-on-Docusaurus/vla-systems/vla-vision-d48": {
+  "/ai-robotic-textbook-on-Docusaurus/ur/vla-systems/vla-vision-b0c": {
     "__comp": "17896441",
     "content": "4df0e478"
   }

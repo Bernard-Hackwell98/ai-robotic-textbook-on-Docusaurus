@@ -5,7 +5,7 @@
   "source": "@site/docs/02-ros2-foundations/module-1-ros2.md",
   "sourceDirName": "02-ros2-foundations",
   "slug": "/ros2-foundations/module-1-ros2",
-  "permalink": "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/module-1-ros2",
+  "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/module-1-ros2",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -25,11 +25,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Physical AI & Humanoid Robotics Textbook",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/introduction/intro"
+    "title": "فزیکل اے آئی اور ہیومینائیڈ روبوٹکس درسی کتاب",
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/introduction/intro"
   },
   "next": {
     "title": "ROS 2 Core Concepts",
-    "permalink": "/ai-robotic-textbook-on-Docusaurus/ros2-foundations/ros2-hands-on"
+    "permalink": "/ai-robotic-textbook-on-Docusaurus/ur/ros2-foundations/ros2-hands-on"
   }
 }

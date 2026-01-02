@@ -28,7 +28,7 @@ export default function Home() {
         <div style={{ marginTop: "40px" }}>
           <Link
             className="button button--primary button--lg"
-            to="/docs/introduction/intro"
+            to="/introduction/intro"
           >
             Start Reading →
           </Link>
@@ -69,7 +69,7 @@ export default function Home() {
               Learn ROS 2 — the nervous system of modern robots. Build nodes, topics,
               services, actions, publishers, subscribers, QoS, and real robot workflows.
             </p>
-            <Link style={cardBtn} to="/docs/ros2-foundations/module-1-ros2">
+            <Link style={cardBtn} to="/ros2-foundations/module-1-ros2">
               Open Module →
             </Link>
           </div>
@@ -81,7 +81,7 @@ export default function Home() {
               Master simulation systems: Gazebo, Unity Robotics, Isaac Sim, and digital
               twin workflows for training and testing robots safely.
             </p>
-            <Link style={cardBtn} to="/docs/simulation/module-2-simulation">
+            <Link style={cardBtn} to="/simulation/module-2-simulation">
               Open Module →
             </Link>
           </div>
@@ -93,7 +93,7 @@ export default function Home() {
               Motors, actuators, torque control, IMUs, sensors, microcontrollers,
               embedded systems — everything real humanoids need.
             </p>
-            <Link style={cardBtn} to="/docs/hardware-basics/module-3-hardware">
+            <Link style={cardBtn} to="/hardware-basics/module-3-hardware">
               Open Module →
             </Link>
           </div>
@@ -105,7 +105,7 @@ export default function Home() {
               Learn the most advanced robotics architecture: perception models,
               LLM-driven command systems, action planners, and embodied AI agents.
             </p>
-            <Link style={cardBtn} to="/docs/vla-systems/module-4-vla-foundations">
+            <Link style={cardBtn} to="/vla-systems/module-4-vla-foundations">
               Open Module →
             </Link>
           </div>
@@ -117,7 +117,7 @@ export default function Home() {
               Reinforcement learning, motion planning, MPC, trajectory optimization,
               and how robots think and move intelligently.
             </p>
-            <Link style={cardBtn} to="/docs/advanced-ai-control/module-5-advanced-ai">
+            <Link style={cardBtn} to="/advanced-ai-control/module-5-advanced-ai">
               Open Module →
             </Link>
           </div>
@@ -129,7 +129,7 @@ export default function Home() {
               Learn end-to-end humanoid creation: mechanical design, kinematics, actuators,
               morphologies, energy systems, and AI-driven movement.
             </p>
-            <Link style={cardBtn} to="/docs/humanoid-design/module-6-humanoid-design">
+            <Link style={cardBtn} to="/humanoid-design/module-6-humanoid-design">
               Open Module →
             </Link>
           </div>
@@ -141,7 +141,7 @@ export default function Home() {
               Glossary, research papers, references, external resources, and further reading
               for mastering robotics and AI.
             </p>
-            <Link style={cardBtn} to="/docs/appendix/glossary">
+            <Link style={cardBtn} to="/appendix/glossary">
               Open Appendix →
             </Link>
           </div>
@@ -208,7 +208,7 @@ export default function Home() {
 
         <Link
           className="button button--primary button--lg"
-          to="/docs/introduction/intro"
+          to="/introduction/intro"
         >
           Start Reading →
         </Link>
